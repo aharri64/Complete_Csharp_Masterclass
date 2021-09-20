@@ -1,0 +1,14 @@
+F:\C# Masterclass Course\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+F:\C# Masterclass Course\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+F:\C# Masterclass Course\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+F:\C# Masterclass Course\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+F:\C# Masterclass Course\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+F:\C# Masterclass Course\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+F:\C# Masterclass Course\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
