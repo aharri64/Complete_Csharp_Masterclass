@@ -153,3 +153,52 @@ void CoolMethod()
     //cool code
 }
 ```
+
+# Value Type vs Reference Type
+
+## [Value Type](https://www.tutorialsteacher.com/csharp/csharp-value-type-and-reference-type)
+
+-   A data type is a value type if it holds a data value within its own memory space. It means the variables of these data types directly contain values.
+
+-   In other words, A value type is a data type which when declared and assigned a value, holds the **value directly ion its own memory** space.
+
+-   The value type uses a heap to store the value.
+
+![Pictorial Representation of a Value Type](./imgs/value_type.png)
+
+### The following data types are all of value type:
+
+-   bool
+-   byte
+-   char
+-   decimal
+-   double
+-   enum
+-   float
+-   int
+-   long
+-   sbyte
+-   short
+-   struct
+-   uint
+-   ulong
+-   ushort
+
+## [Reference Type](https://www.tutorialsteacher.com/csharp/csharp-value-type-and-reference-type)
+
+-   Unlike value types, a reference type doesn't store its value directly. Instead, it stores the address where the value is being stored. In other words, a reference type contains a pointer to another memory location that holds the data.
+
+-   In other words, instead of storing the value in memory directly, **stores the memory location** of the actual data.
+
+-   The variable here stores the memory reference of the data and not the data directly.
+
+-   When we copy the reference type of a data type it will just copy the memory address of the data so we will then have two variables pointing to the same data.
+
+![Pictorial Representation of a Reference Type](./imgs/reference_type.png)
+
+### The followings are reference type data types:
+
+-   String
+-   Arrays (even if their elements are value types)
+-   Class
+-   Delegate
