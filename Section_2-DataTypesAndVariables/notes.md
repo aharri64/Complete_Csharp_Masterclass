@@ -112,3 +112,44 @@ Use a boolean if you want to set something to true or false (just like a toggle)
 Use a string for a path, username, birthdate...
 
 [Different Types Link](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types)
+
+# Coding Standards
+
+-   [Microsoft Docs on C# Coding Conventions](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions)
+
+### What are Coding Standards
+
+-   A set of guidelines, best practices and programming styles that developers followed when writing source code for a project.
+
+### What Makes Good Coding Standards
+
+-   Reasonable Variable Names
+-   Proper Method Name
+-   Comments
+
+### Commenting styles
+
+-   Single-Line Comments
+
+```cs
+// a bool to check if the user is logged in
+bool isUserLoggedIn = true;
+```
+
+-   MultiLine Comments
+
+```cs
+/*These methods are responsible for storing user data and connecting to the database. */
+```
+
+-   XML Documentation Comments
+
+```cs
+///<summary>
+//This method is very cool
+///</summary>
+void CoolMethod()
+{
+    //cool code
+}
+```
