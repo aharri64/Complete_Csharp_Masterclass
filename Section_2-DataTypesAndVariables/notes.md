@@ -261,3 +261,32 @@ You have entered Amir
 Enter a key and press enter: A
 ASCII value is 65
 ```
+
+# [Naming Conventions and Coding Standards](https://www.dofactory.com/csharp-coding-standards)
+
+```cs
+namespace HelloWorld
+{
+    // Classes should be in PascalCase
+    class ClientActivity
+    {
+        // Method names should also be in PascalCase
+        // method arguments should be in camelCase
+        static void Main(string[] args)
+        {
+            // local variables should be in camelCase
+
+            // avoid abbreviations userControl vs usrCtrl
+
+            // don't use numbers at the start of variable names
+
+            // avoid using _
+            // exception is an _ at the beginning of a name.
+
+            // don't capitalize string, int, bool, etc.
+
+            // use nouns for Classes
+        }
+    }
+}
+```
