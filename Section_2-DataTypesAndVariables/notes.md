@@ -202,3 +202,62 @@ void CoolMethod()
 -   Arrays (even if their elements are value types)
 -   Class
 -   Delegate
+
+# [Console Methods](https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=netcore-3.1#System_Console_WriteLine_System_String_)
+
+## Console Methods Explained
+
+-   Console.Write("Text Here")
+    -   Prints and keeps the cursor in the **same line**.
+-   Console.WriteLine("Text Here")
+    -   Prints and puts the cursor on the **next line**.
+-   Console.Read()
+    -   Takes a single input of type string and it **returns the ASCII value** of that input.
+-   Console.ReadLine()
+    -   Takes a string or integer input and **returns it as the Output** value.
+-   Console.ReadKey()
+    -   Takes a single input of type string and it **returns the Key info**.
+
+### What is [ASCII](https://www.ascii-code.com/)?
+
+    - American Standard Code for Information Interchange
+
+### Example
+
+```cs
+Console.WriteLine("HELLO WORLD");
+Console.Write("HELLO");
+Console.Write("WORLD");
+Consolee.ReadKey();
+```
+
+### Output
+
+```console
+Hello World
+HelloWorld
+```
+
+### Example for ReadLine();
+
+```cs
+static void Main(string[] args) {
+    Console.Write("Enter a string and press enter: ");
+    string readInput = Console.ReadLine();
+    Console.WriteLine("You have entered {0}", readInput);
+
+    Console.Write("Enter a key and press enter: ");
+    string asciiValue = Console.Read();
+    Console.WriteLine("ASCII value is {0}", asciiValue);
+    Console.ReadKey();
+}
+```
+
+### Expected Output
+
+```console
+Enter a string and press enter: Amir
+You have entered Amir
+Enter a key and press enter: A
+ASCII value is 65
+```
