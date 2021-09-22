@@ -290,3 +290,37 @@ namespace HelloWorld
     }
 }
 ```
+
+# Implicit, Explicit and Type Conversion
+
+```cs
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Implicit Conversion
+            int num = 12390532;
+            long bigNumber = num;
+
+            float myFloat = 13.37f;
+            double myNewDouble = myFloat;
+
+            // Explicit Conversion
+            double myDouble = 13.37;
+            int myInt;
+            // Cast double to int
+            myInt = (int)myDouble;
+            Console.WriteLine(myInt); // will be 13
+
+            //Type Conversion
+            string myString = myDouble.ToString(); //"13.37"
+            num.ToString();
+            bool sunIsShining = true;
+            string myBoolString = sunIsShining.ToString();
+
+        }
+    }
+}
+```
