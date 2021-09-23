@@ -344,3 +344,28 @@ namespace HelloWorld
     }
 }
 ```
+
+# String Manipulation
+
+```cs
+namespace HelloWorld
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // define a few variables
+            int age = 31;
+            string name = "Alfonso";
+
+            // 1. String Concatenation
+            Console.WriteLine("String Concatenation");
+            Console.WriteLine("Hello my name is " + name + ", I am " + age + " years old");
+
+            // 2. String Formatting
+            Console.WriteLine("String Formatting");
+            Console.WriteLine("Hello my name is {0}, I am {1} years old", name, age);
+        }
+    }
+}
+```
