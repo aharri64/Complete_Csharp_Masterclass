@@ -111,6 +111,14 @@ Use a boolean if you want to set something to true or false (just like a toggle)
 
 Use a string for a path, username, birthdate...
 
+### Misc.
+
+-   DateTime time = 4:30:20am 4/5/31;
+    -  represents date and time, values from 0:00:00am 1/1/01 to 11:59:59pm 12 / 31 / 9999
+-   enum ThreeWeekDays {monday, tuesday, wednesday};
+    -  used to assign constant names to a group of numeric integer values
+-   Dynamic DynaicVariable = 1;
+    -  dynamic type does type check at run-time instead of compile-time.
 [Different Types Link](https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/types)
 
 # Coding Standards
