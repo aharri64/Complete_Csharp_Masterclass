@@ -369,3 +369,38 @@ namespace HelloWorld
     }
 }
 ```
+
+# Some String Methods
+
+Strings are just a sequence of characters
+
+-   **Substring(int32)** - is used to get the Substring from the string, starting from the specific index.
+-   **ToLower()** - is used to convert the string to lowercase.
+
+-   **ToUpper()** - is used to convert the string to uppercase.
+
+-   **Trim()** - is used to trim the leading and trailing white space from the string.
+
+-   **IndexOf(string)** - is used to get the first occurrence of the string or character inside the string.
+
+-   **IsNullOrWhiteSpace** - returns true if the string is either null or is blank else it returns false.
+
+```cs
+static void Main(String[]args) {
+    string firstName = "Amir";
+    string lastName = "Harrison";
+    string fullName - string.Concat("", firstName, lastName, "");
+    console.WriteLine(firstName.Substring(2)); // output: "ir"
+    console.WriteLine(firstName.ToLower()); // output: "amir"
+    console.WriteLine(firstName.ToUpper()); // output: "AMIR"
+    console.WriteLine(fullName.Trim()); // output: "amirharrison"
+    console.WriteLine(firstName.IndexOf('m')); // output: 1
+    console.WriteLine(string.IsNullOrWhiteSpace(firstName)); // output: false
+}
+```
+
+### String.Format Explained
+
+-   In C# the String.Format method is used to insert the object or variable value inside any string.
+-   With the String.Format we can replace the value in the specified format.
+-   Syntax: String.Format("any string {index}", object);
