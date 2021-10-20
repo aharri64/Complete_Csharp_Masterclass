@@ -1,0 +1,16 @@
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\bin\Debug\net5.0\Exercise1-strings.exe
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\bin\Debug\net5.0\Exercise1-strings.deps.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\bin\Debug\net5.0\Exercise1-strings.runtimeconfig.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\bin\Debug\net5.0\Exercise1-strings.runtimeconfig.dev.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\bin\Debug\net5.0\Exercise1-strings.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\bin\Debug\net5.0\ref\Exercise1-strings.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\bin\Debug\net5.0\Exercise1-strings.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\obj\Debug\net5.0\Exercise1-strings.csproj.AssemblyReference.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\obj\Debug\net5.0\Exercise1-strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\obj\Debug\net5.0\Exercise1-strings.AssemblyInfoInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\obj\Debug\net5.0\Exercise1-strings.AssemblyInfo.cs
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\obj\Debug\net5.0\Exercise1-strings.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\obj\Debug\net5.0\Exercise1-strings.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\obj\Debug\net5.0\ref\Exercise1-strings.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\obj\Debug\net5.0\Exercise1-strings.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_2-DataTypesAndVariables\strings\Exercise1-strings\Exercise1-strings\obj\Debug\net5.0\Exercise1-strings.genruntimeconfig.cache
