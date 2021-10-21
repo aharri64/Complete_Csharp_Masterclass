@@ -470,3 +470,94 @@ namespace StringsChallenge2
     }
 }
 ```
+
+## Challenge-Data Types and Variables
+
+### The Problem
+
+Now that you know how to declare and initialize Variables, please go ahead and create a variable for each of the primitive datatypes (you can find the list here). Leave the Object datatype out.
+And also please initialize each variable with a working value.
+Then create two values of type string.
+The first one should say "I control text"
+
+The second one should be a whole number. Then use the Parse method in order to convert that string to an integer.
+
+Add each an output for each of the variables and write it onto the console. (WriteLine)
+Feel free to name your variables as you like, but keep in mind, that my result's variable names will differ to yours.
+Have fun :)
+
+### My Answer
+
+```cs
+namespace Challenge___Datatypes_And_Variables
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            byte smallByte = 42;
+            sbyte verySmallByte = -42;
+            int num = 500;
+            long big = 555555;
+            float decima = 2.33f;
+            double myNewDouble = .1;
+            string text = "I control text";
+            string number = "23";
+            int toInt = Int32.Parse(number);
+
+            Console.WriteLine(smallByte);
+            Console.WriteLine(verySmallByte);
+            Console.WriteLine(num);
+            Console.WriteLine(big);
+            Console.WriteLine(decima);
+            Console.WriteLine(myNewDouble);
+            Console.WriteLine(text);
+            Console.WriteLine(number);
+            Console.WriteLine(toInt);
+        }
+    }
+}
+```
+
+### His Answer
+
+````cs
+namespace HelloWorld
+{
+    class Program
+    {
+
+        static void Main(string[] args)
+        {
+            byte myByte = 25;
+            Console.WriteLine(myByte);
+            sbyte mySbyte = -15;
+            Console.WriteLine(mySbyte);
+            int myInt = -12318925;
+            Console.WriteLine(myInt);
+            uint myUint = 123091;
+            Console.WriteLine(myUint);
+            short myShort = -32768;
+            Console.WriteLine(myShort);
+            ushort myUShort = 65535;
+            Console.WriteLine(myUShort);
+            float myFloat = -31.1289f;
+            Console.WriteLine(myFloat);
+            double myDouble = -12.1231250;
+            Console.WriteLine(myDouble);
+            char myCharacter = 'A';
+            Console.WriteLine(myCharacter);
+            bool myBool = true;
+            Console.WriteLine(myBool);
+            string myText = "I control text";
+            Console.WriteLine(myText);
+            string numText = "15";
+
+            int myNumFromText = int.Parse(numText);
+            Console.WriteLine(myNumFromText);
+            Console.ReadLine();
+        }
+
+    }
+}```
+````
