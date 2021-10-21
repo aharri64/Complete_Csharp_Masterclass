@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StringsChallenge2/1.0.0": {
+        "runtime": {
+          "StringsChallenge2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringsChallenge2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

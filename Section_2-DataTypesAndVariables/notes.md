@@ -228,7 +228,7 @@ void CoolMethod()
 Console.WriteLine("HELLO WORLD");
 Console.Write("HELLO");
 Console.Write("WORLD");
-Consolee.ReadKey();
+Console.ReadKey();
 ```
 
 ### Output
