@@ -22,3 +22,38 @@ public int Add(int num1, int num2)
     return result;
 }
 ```
+
+## Method Challenge
+
+## My Answer
+
+```csharp
+
+namespace ChallengeMethods
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string stormy = "Stormy";
+            string william = "William";
+            string joe = "Joe";
+            GreetFriend(joe);
+            GreetFriend(william);
+            GreetFriend(stormy);
+        }
+
+        public static string GreetFriend(string friendName)
+        {
+            Console.WriteLine($"Hi {friendName}, my friend!");
+            return $"Hi {friendName}, my friend!";
+        }
+    }
+}
+```
+
+## His Answer
+
+```csharp
+
+```

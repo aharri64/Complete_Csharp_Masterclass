@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ChallengeMethods/1.0.0": {
+        "runtime": {
+          "ChallengeMethods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChallengeMethods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
