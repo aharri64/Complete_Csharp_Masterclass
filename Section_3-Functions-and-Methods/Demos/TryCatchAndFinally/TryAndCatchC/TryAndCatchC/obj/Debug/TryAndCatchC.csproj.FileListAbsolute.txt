@@ -1,0 +1,6 @@
+C:\Users\Denis Panjuta\source\repos\TryAndCatchC\TryAndCatchC\bin\Debug\TryAndCatchC.exe.config
+C:\Users\Denis Panjuta\source\repos\TryAndCatchC\TryAndCatchC\bin\Debug\TryAndCatchC.exe
+C:\Users\Denis Panjuta\source\repos\TryAndCatchC\TryAndCatchC\bin\Debug\TryAndCatchC.pdb
+C:\Users\Denis Panjuta\source\repos\TryAndCatchC\TryAndCatchC\obj\Debug\TryAndCatchC.csproj.CoreCompileInputs.cache
+C:\Users\Denis Panjuta\source\repos\TryAndCatchC\TryAndCatchC\obj\Debug\TryAndCatchC.exe
+C:\Users\Denis Panjuta\source\repos\TryAndCatchC\TryAndCatchC\obj\Debug\TryAndCatchC.pdb

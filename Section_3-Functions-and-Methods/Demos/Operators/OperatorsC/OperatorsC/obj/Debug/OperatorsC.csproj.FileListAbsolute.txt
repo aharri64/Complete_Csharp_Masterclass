@@ -1,0 +1,14 @@
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\bin\Debug\OperatorsC.exe.config
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\bin\Debug\OperatorsC.exe
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\bin\Debug\OperatorsC.pdb
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\obj\Debug\OperatorsC.csprojResolveAssemblyReference.cache
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\obj\Debug\OperatorsC.csproj.CoreCompileInputs.cache
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\obj\Debug\OperatorsC.exe
+c:\users\denis panjuta\source\repos\OperatorsC\OperatorsC\obj\Debug\OperatorsC.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_3-Functions-and-Methods\Demos\Operators\OperatorsC\OperatorsC\bin\Debug\OperatorsC.exe.config
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_3-Functions-and-Methods\Demos\Operators\OperatorsC\OperatorsC\bin\Debug\OperatorsC.exe
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_3-Functions-and-Methods\Demos\Operators\OperatorsC\OperatorsC\bin\Debug\OperatorsC.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_3-Functions-and-Methods\Demos\Operators\OperatorsC\OperatorsC\obj\Debug\OperatorsC.csproj.AssemblyReference.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_3-Functions-and-Methods\Demos\Operators\OperatorsC\OperatorsC\obj\Debug\OperatorsC.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_3-Functions-and-Methods\Demos\Operators\OperatorsC\OperatorsC\obj\Debug\OperatorsC.exe
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_3-Functions-and-Methods\Demos\Operators\OperatorsC\OperatorsC\obj\Debug\OperatorsC.pdb
