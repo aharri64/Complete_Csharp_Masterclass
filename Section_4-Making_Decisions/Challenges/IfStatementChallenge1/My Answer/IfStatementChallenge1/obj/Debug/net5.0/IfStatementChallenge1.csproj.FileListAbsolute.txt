@@ -1,0 +1,16 @@
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\bin\Debug\net5.0\IfStatementChallenge1.exe
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\bin\Debug\net5.0\IfStatementChallenge1.deps.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\bin\Debug\net5.0\IfStatementChallenge1.runtimeconfig.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\bin\Debug\net5.0\IfStatementChallenge1.runtimeconfig.dev.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\bin\Debug\net5.0\IfStatementChallenge1.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\bin\Debug\net5.0\ref\IfStatementChallenge1.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\bin\Debug\net5.0\IfStatementChallenge1.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\obj\Debug\net5.0\IfStatementChallenge1.csproj.AssemblyReference.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\obj\Debug\net5.0\IfStatementChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\obj\Debug\net5.0\IfStatementChallenge1.AssemblyInfoInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\obj\Debug\net5.0\IfStatementChallenge1.AssemblyInfo.cs
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\obj\Debug\net5.0\IfStatementChallenge1.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\obj\Debug\net5.0\IfStatementChallenge1.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\obj\Debug\net5.0\ref\IfStatementChallenge1.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\obj\Debug\net5.0\IfStatementChallenge1.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\IfStatementChallenge1\IfStatementChallenge1\obj\Debug\net5.0\IfStatementChallenge1.genruntimeconfig.cache
