@@ -1,0 +1,7 @@
+F:\C# Masterclass Course\Projects\RegisteringAndLogginIn\RegisteringAndLogginIn\bin\Debug\RegisteringAndLogginIn.exe.config
+F:\C# Masterclass Course\Projects\RegisteringAndLogginIn\RegisteringAndLogginIn\bin\Debug\RegisteringAndLogginIn.exe
+F:\C# Masterclass Course\Projects\RegisteringAndLogginIn\RegisteringAndLogginIn\bin\Debug\RegisteringAndLogginIn.pdb
+F:\C# Masterclass Course\Projects\RegisteringAndLogginIn\RegisteringAndLogginIn\obj\Debug\RegisteringAndLogginIn.csprojResolveAssemblyReference.cache
+F:\C# Masterclass Course\Projects\RegisteringAndLogginIn\RegisteringAndLogginIn\obj\Debug\RegisteringAndLogginIn.csproj.CoreCompileInputs.cache
+F:\C# Masterclass Course\Projects\RegisteringAndLogginIn\RegisteringAndLogginIn\obj\Debug\RegisteringAndLogginIn.exe
+F:\C# Masterclass Course\Projects\RegisteringAndLogginIn\RegisteringAndLogginIn\obj\Debug\RegisteringAndLogginIn.pdb
