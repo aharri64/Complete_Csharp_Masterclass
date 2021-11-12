@@ -1,0 +1,7 @@
+F:\C# Masterclass Course\Projects\Switch Statement\Switch Statement\bin\Debug\Switch Statement.exe.config
+F:\C# Masterclass Course\Projects\Switch Statement\Switch Statement\bin\Debug\Switch Statement.exe
+F:\C# Masterclass Course\Projects\Switch Statement\Switch Statement\bin\Debug\Switch Statement.pdb
+F:\C# Masterclass Course\Projects\Switch Statement\Switch Statement\obj\Debug\Switch Statement.csprojResolveAssemblyReference.cache
+F:\C# Masterclass Course\Projects\Switch Statement\Switch Statement\obj\Debug\Switch Statement.csproj.CoreCompileInputs.cache
+F:\C# Masterclass Course\Projects\Switch Statement\Switch Statement\obj\Debug\Switch Statement.exe
+F:\C# Masterclass Course\Projects\Switch Statement\Switch Statement\obj\Debug\Switch Statement.pdb
