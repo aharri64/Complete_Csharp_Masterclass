@@ -1,0 +1,16 @@
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\bin\Debug\net5.0\TernaryChallenge.exe
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\bin\Debug\net5.0\TernaryChallenge.deps.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\bin\Debug\net5.0\TernaryChallenge.runtimeconfig.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\bin\Debug\net5.0\TernaryChallenge.runtimeconfig.dev.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\bin\Debug\net5.0\TernaryChallenge.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\bin\Debug\net5.0\ref\TernaryChallenge.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\bin\Debug\net5.0\TernaryChallenge.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\obj\Debug\net5.0\TernaryChallenge.csproj.AssemblyReference.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\obj\Debug\net5.0\TernaryChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\obj\Debug\net5.0\TernaryChallenge.AssemblyInfoInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\obj\Debug\net5.0\TernaryChallenge.AssemblyInfo.cs
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\obj\Debug\net5.0\TernaryChallenge.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\obj\Debug\net5.0\TernaryChallenge.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\obj\Debug\net5.0\ref\TernaryChallenge.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\obj\Debug\net5.0\TernaryChallenge.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_4-Making_Decisions\Challenges\TernaryChallenge\TernaryChallenge\TernaryChallenge\obj\Debug\net5.0\TernaryChallenge.genruntimeconfig.cache
