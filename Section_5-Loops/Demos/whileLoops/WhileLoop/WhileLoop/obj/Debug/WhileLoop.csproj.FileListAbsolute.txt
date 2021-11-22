@@ -1,0 +1,6 @@
+F:\C# Masterclass Course\Projects\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe.config
+F:\C# Masterclass Course\Projects\WhileLoop\WhileLoop\bin\Debug\WhileLoop.exe
+F:\C# Masterclass Course\Projects\WhileLoop\WhileLoop\bin\Debug\WhileLoop.pdb
+F:\C# Masterclass Course\Projects\WhileLoop\WhileLoop\obj\Debug\WhileLoop.csproj.CoreCompileInputs.cache
+F:\C# Masterclass Course\Projects\WhileLoop\WhileLoop\obj\Debug\WhileLoop.exe
+F:\C# Masterclass Course\Projects\WhileLoop\WhileLoop\obj\Debug\WhileLoop.pdb
