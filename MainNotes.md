@@ -824,3 +824,69 @@ Console.WriteLine("State of Matter is {0}", stateOfMatter);
 //To make sure the Console keeps open
 Console.Read();
 ```
+
+# Section 5: Loops in C#
+
+## Introduction to Loops in C#
+
+### Advantages of Loops
+
+-   Saves time
+-   Quick and east repetition of Code
+-   Allows you to work with huge amounts of Data
+-   Allows you to loop through arrays
+
+### Loop Types
+
+-   for loop
+-   while loop (check the go)
+-   do while loop (do first then check)
+-   foreach loop (run through array or list)
+
+### For Loop
+
+```cs
+for(start value; condition; increment)
+{
+    //code body
+}
+
+// Great for counters
+```
+
+### While Loop
+
+```cs
+counterVariable = 0;
+while(condition)
+{
+    // code body
+    counterVariable++;
+}
+
+//Executes the code as long as the condition is met
+```
+
+### Do While Loop
+
+```cs
+counterVariable = 0;
+do
+{
+    // code body
+    counterVariable++;
+}
+while(condition)
+
+//Executes the code as long as the condition is met
+```
+
+### foreach Loop
+
+-   runs through an array
+-   only as long as there is content
+-   more about this in the arrays chapter
+
+```cs
+
+```
