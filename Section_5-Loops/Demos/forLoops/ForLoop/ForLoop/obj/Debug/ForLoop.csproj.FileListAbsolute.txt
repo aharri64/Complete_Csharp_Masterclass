@@ -1,0 +1,7 @@
+F:\C# Masterclass Course\Projects\ForLoop\ForLoop\bin\Debug\ForLoop.exe.config
+F:\C# Masterclass Course\Projects\ForLoop\ForLoop\bin\Debug\ForLoop.exe
+F:\C# Masterclass Course\Projects\ForLoop\ForLoop\bin\Debug\ForLoop.pdb
+F:\C# Masterclass Course\Projects\ForLoop\ForLoop\obj\Debug\ForLoop.csprojResolveAssemblyReference.cache
+F:\C# Masterclass Course\Projects\ForLoop\ForLoop\obj\Debug\ForLoop.csproj.CoreCompileInputs.cache
+F:\C# Masterclass Course\Projects\ForLoop\ForLoop\obj\Debug\ForLoop.exe
+F:\C# Masterclass Course\Projects\ForLoop\ForLoop\obj\Debug\ForLoop.pdb
