@@ -887,6 +887,22 @@ while(condition)
 -   only as long as there is content
 -   more about this in the arrays chapter
 
-```cs
+## For Loops
 
+```cs
+namespace ForLoop
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            for(int i = 1; i < 20; i++)
+            {
+                Console.WriteLine(counter);
+            }
+            Console.Read();
+
+        }
+    }
+}
 ```
