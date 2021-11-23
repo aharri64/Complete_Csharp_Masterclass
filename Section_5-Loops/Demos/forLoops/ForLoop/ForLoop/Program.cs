@@ -10,9 +10,12 @@ namespace ForLoop
     {
         static void Main(string[] args)
         {
-            for(int counter = 1; counter < 20; counter += 2)
+            for(int i = 1; i <= 20; i++)
             {
-                Console.WriteLine(counter);
+                if (i % 2 == 1)
+                {
+                    Console.WriteLine(i);
+                }
             }
             Console.Read();
 
