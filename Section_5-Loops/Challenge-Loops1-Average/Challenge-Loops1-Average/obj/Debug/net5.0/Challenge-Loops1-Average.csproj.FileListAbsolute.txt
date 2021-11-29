@@ -1,0 +1,16 @@
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\bin\Debug\net5.0\Challenge-Loops1-Average.exe
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\bin\Debug\net5.0\Challenge-Loops1-Average.deps.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\bin\Debug\net5.0\Challenge-Loops1-Average.runtimeconfig.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\bin\Debug\net5.0\Challenge-Loops1-Average.runtimeconfig.dev.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\bin\Debug\net5.0\Challenge-Loops1-Average.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\bin\Debug\net5.0\ref\Challenge-Loops1-Average.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\bin\Debug\net5.0\Challenge-Loops1-Average.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\obj\Debug\net5.0\Challenge-Loops1-Average.csproj.AssemblyReference.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\obj\Debug\net5.0\Challenge-Loops1-Average.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\obj\Debug\net5.0\Challenge-Loops1-Average.AssemblyInfoInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\obj\Debug\net5.0\Challenge-Loops1-Average.AssemblyInfo.cs
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\obj\Debug\net5.0\Challenge-Loops1-Average.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\obj\Debug\net5.0\Challenge-Loops1-Average.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\obj\Debug\net5.0\ref\Challenge-Loops1-Average.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\obj\Debug\net5.0\Challenge-Loops1-Average.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_5-Loops\Challenge-Loops1-Average\Challenge-Loops1-Average\obj\Debug\net5.0\Challenge-Loops1-Average.genruntimeconfig.cache
