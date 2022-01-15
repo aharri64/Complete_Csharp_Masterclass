@@ -961,3 +961,15 @@ namespace WhileLoop
     }
 }
 ```
+
+# Section 6 - Object Oriented Programming
+
+## Introduction to Classes and Objects
+
+### Class
+
+-   A blueprint of an object
+-   It has actions/abilities - so called member functions or methods
+-   and it has properties - so called member variables
+-   Inheritance is possible
+-   Can be used like a Datatype (String is a Class)
