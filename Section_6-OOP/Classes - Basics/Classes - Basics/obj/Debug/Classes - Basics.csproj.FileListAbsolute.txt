@@ -1,0 +1,14 @@
+c:\users\denis panjuta\source\repos\Classes - Basics\Classes - Basics\bin\Debug\Classes - Basics.exe.config
+c:\users\denis panjuta\source\repos\Classes - Basics\Classes - Basics\bin\Debug\Classes - Basics.exe
+c:\users\denis panjuta\source\repos\Classes - Basics\Classes - Basics\bin\Debug\Classes - Basics.pdb
+c:\users\denis panjuta\source\repos\Classes - Basics\Classes - Basics\obj\Debug\Classes - Basics.csprojResolveAssemblyReference.cache
+c:\users\denis panjuta\source\repos\Classes - Basics\Classes - Basics\obj\Debug\Classes - Basics.csproj.CoreCompileInputs.cache
+c:\users\denis panjuta\source\repos\Classes - Basics\Classes - Basics\obj\Debug\Classes - Basics.exe
+c:\users\denis panjuta\source\repos\Classes - Basics\Classes - Basics\obj\Debug\Classes - Basics.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Classes - Basics\Classes - Basics\bin\Debug\Classes - Basics.exe.config
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Classes - Basics\Classes - Basics\bin\Debug\Classes - Basics.exe
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Classes - Basics\Classes - Basics\bin\Debug\Classes - Basics.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Classes - Basics\Classes - Basics\obj\Debug\Classes - Basics.csproj.AssemblyReference.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Classes - Basics\Classes - Basics\obj\Debug\Classes - Basics.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Classes - Basics\Classes - Basics\obj\Debug\Classes - Basics.exe
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Classes - Basics\Classes - Basics\obj\Debug\Classes - Basics.pdb
