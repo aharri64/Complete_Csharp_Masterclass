@@ -1,0 +1,16 @@
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\bin\Debug\net5.0\Properties.exe
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\bin\Debug\net5.0\Properties.deps.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\bin\Debug\net5.0\Properties.runtimeconfig.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\bin\Debug\net5.0\Properties.runtimeconfig.dev.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\bin\Debug\net5.0\Properties.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\bin\Debug\net5.0\ref\Properties.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\bin\Debug\net5.0\Properties.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\obj\Debug\net5.0\Properties.csproj.AssemblyReference.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\obj\Debug\net5.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\obj\Debug\net5.0\Properties.AssemblyInfoInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\obj\Debug\net5.0\Properties.AssemblyInfo.cs
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\obj\Debug\net5.0\Properties.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\obj\Debug\net5.0\Properties.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\obj\Debug\net5.0\ref\Properties.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\obj\Debug\net5.0\Properties.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Properties\Properties\obj\Debug\net5.0\Properties.genruntimeconfig.cache
