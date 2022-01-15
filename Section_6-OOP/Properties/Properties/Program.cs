@@ -6,11 +6,13 @@ namespace Properties
     {
         static void Main(string[] args)
         {
-            Box box = new Box();
+            Box box = new Box(3, 4, 5);
             //box.length = 3;
-            box.SetLength(0);
-            box.height = 4;
-            box.width = 5;
+            //box.SetLength(3);
+            //box.Height = 4;
+            //box.Width = 5;
+
+            Console.WriteLine($"Front Surface is {box.FrontSurface}");
 
             box.DisplayInfo();
         }
