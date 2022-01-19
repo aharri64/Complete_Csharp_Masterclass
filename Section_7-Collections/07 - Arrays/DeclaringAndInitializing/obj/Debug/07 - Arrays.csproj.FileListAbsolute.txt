@@ -1,0 +1,7 @@
+c:\users\denis panjuta\source\repos\07 - Arrays\07 - Arrays\bin\Debug\07 - Arrays.exe.config
+c:\users\denis panjuta\source\repos\07 - Arrays\07 - Arrays\bin\Debug\07 - Arrays.exe
+c:\users\denis panjuta\source\repos\07 - Arrays\07 - Arrays\bin\Debug\07 - Arrays.pdb
+c:\users\denis panjuta\source\repos\07 - Arrays\07 - Arrays\obj\Debug\07 - Arrays.csprojResolveAssemblyReference.cache
+c:\users\denis panjuta\source\repos\07 - Arrays\07 - Arrays\obj\Debug\07 - Arrays.csproj.CoreCompileInputs.cache
+c:\users\denis panjuta\source\repos\07 - Arrays\07 - Arrays\obj\Debug\07 - Arrays.exe
+c:\users\denis panjuta\source\repos\07 - Arrays\07 - Arrays\obj\Debug\07 - Arrays.pdb
