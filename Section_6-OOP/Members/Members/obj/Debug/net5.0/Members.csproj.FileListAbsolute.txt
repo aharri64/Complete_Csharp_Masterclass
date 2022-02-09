@@ -1,0 +1,16 @@
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\bin\Debug\net5.0\Members.exe
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\bin\Debug\net5.0\Members.deps.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\bin\Debug\net5.0\Members.runtimeconfig.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\bin\Debug\net5.0\Members.runtimeconfig.dev.json
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\bin\Debug\net5.0\Members.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\bin\Debug\net5.0\ref\Members.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\bin\Debug\net5.0\Members.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\obj\Debug\net5.0\Members.csproj.AssemblyReference.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\obj\Debug\net5.0\Members.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\obj\Debug\net5.0\Members.AssemblyInfoInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\obj\Debug\net5.0\Members.AssemblyInfo.cs
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\obj\Debug\net5.0\Members.csproj.CoreCompileInputs.cache
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\obj\Debug\net5.0\Members.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\obj\Debug\net5.0\ref\Members.dll
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\obj\Debug\net5.0\Members.pdb
+D:\Projects\Udemy\Complete_Csharp_Masterclass\Section_6-OOP\Members\Members\obj\Debug\net5.0\Members.genruntimeconfig.cache
