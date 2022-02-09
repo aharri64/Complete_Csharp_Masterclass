@@ -973,3 +973,14 @@ namespace WhileLoop
 -   and it has properties - so called member variables
 -   Inheritance is possible
 -   Can be used like a Datatype (String is a Class)
+
+# Collections in C#
+
+## Basics of Arrays in C#
+
+### Array
+- Stores a fixed size sequential collection of elements
+- ONLY of the same type
+- all kinds of types: int, string, object, etc.
+- Great to store a collection of data - easier to think of a collection of variables of the same type stored at contiguous memory locations.
+
